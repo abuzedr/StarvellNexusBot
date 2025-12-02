@@ -1,0 +1,12 @@
+[StarVell]
+session = YOUR_SESSION_ID_HERE
+
+[Telegram]
+bot_token = YOUR_BOT_TOKEN
+admin_id = YOUR_TELEGRAM_ID
+password = admin
+notifications = true
+
+[Updates]
+github_token = 
+auto_update = 1

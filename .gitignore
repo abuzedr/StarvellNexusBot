@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+.eggs/
+*.egg-info/
+*.egg
+
+# Configs (user data)
+configs/_main.cfg
+configs/*.cfg
+!configs/_main.cfg.example
+
+# Storage (user data)
+storage/
+logs/
+
+# Build
+build/
+dist/
+
+# IDE
+.cursor/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.bak
+*.log
+

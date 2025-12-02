@@ -1,0 +1,17 @@
+{
+    "enabled": true,
+    "greeting_enabled": true,
+    "greeting_message": "Здравствуйте",
+    "greeting_only_first_message": true,
+    "keywords": {
+        "сумка": "соб"
+    },
+    "responded_users": [
+        "019906df-7144-ed0c-f1ab-f5d3f2e191c6"
+    ],
+    "review_auto_reply_enabled": true,
+    "review_replies": {
+        "5": "Благодарим за отзыв {rating}"
+    },
+    "review_default_reply": ""
+}
